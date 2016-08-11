@@ -1,0 +1,9 @@
+c:\users\kathy\documents\visual studio 2015\Projects\DatabaseClientTest\DatabaseClientTest\bin\Debug\DatabaseClientTest.exe.config
+c:\users\kathy\documents\visual studio 2015\Projects\DatabaseClientTest\DatabaseClientTest\obj\Debug\DatabaseClientTest.csprojResolveAssemblyReference.cache
+c:\users\kathy\documents\visual studio 2015\Projects\DatabaseClientTest\DatabaseClientTest\obj\Debug\DatabaseClientTest.Form1.resources
+c:\users\kathy\documents\visual studio 2015\Projects\DatabaseClientTest\DatabaseClientTest\obj\Debug\DatabaseClientTest.Properties.Resources.resources
+c:\users\kathy\documents\visual studio 2015\Projects\DatabaseClientTest\DatabaseClientTest\obj\Debug\DatabaseClientTest.csproj.GenerateResource.Cache
+c:\users\kathy\documents\visual studio 2015\Projects\DatabaseClientTest\DatabaseClientTest\bin\Debug\DatabaseClientTest.exe
+c:\users\kathy\documents\visual studio 2015\Projects\DatabaseClientTest\DatabaseClientTest\bin\Debug\DatabaseClientTest.pdb
+c:\users\kathy\documents\visual studio 2015\Projects\DatabaseClientTest\DatabaseClientTest\obj\Debug\DatabaseClientTest.exe
+c:\users\kathy\documents\visual studio 2015\Projects\DatabaseClientTest\DatabaseClientTest\obj\Debug\DatabaseClientTest.pdb
